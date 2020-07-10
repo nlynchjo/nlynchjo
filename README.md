@@ -1,5 +1,5 @@
 ### 👋  Hi! I'm Nick
-[<img src="https://github.com/nlynchjo/nlynchjo/blob/master/sargent2.gif" height="100px">](#)
+[<img src="https://github.com/nlynchjo/nlynchjo/blob/master/spectrogramb.jpg" height="200px">](#)
 
 ### Some facts about me:
 - I have a cat named Dr. Chops.  
